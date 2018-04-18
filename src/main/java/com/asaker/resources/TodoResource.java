@@ -1,4 +1,4 @@
-package com.asaker.ping.resources;
+package com.asaker.resources;
 
 import com.asaker.clients.TodosAsyncClient;
 import javax.inject.Inject;
